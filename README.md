@@ -1,6 +1,6 @@
-#OpenWeatherMap Sample Class
+# OpenWeatherMap Sample Class
 
-##What does it do?
+## What does it do?
 This PHP class is an implementation of the OpenWeatherMap API for easy access to the requests of the API.
 
 ## How to use it?
